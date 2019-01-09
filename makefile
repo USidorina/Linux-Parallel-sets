@@ -1,6 +1,6 @@
 COMPILER=g++ -std=c++0x
 CFLAGS=-Wall -Werror
-EXECUTABLE=lab3
+EXECUTABLE=psets
 
 SOURCES=main.cpp lazy_sync_set.cpp cg_sync_set.cpp
 
